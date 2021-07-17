@@ -1,0 +1,32 @@
+body{
+    padding: 0px 10%;
+}
+
+.princial{
+    font-family: Tahoma;
+    background-color: #ccc;
+    text-align: center;
+    margin: 100px;
+    padding: 25px;
+}
+
+form{
+    font-family: Dubai;
+    font-size: 16pt;
+    width: 350px;
+    margin: auto;
+}
+
+input{
+    font-size: 16pt;
+    display: block;
+    width: 100%;
+}
+
+button{
+    font-size: 14pt;
+    padding: 5px 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
